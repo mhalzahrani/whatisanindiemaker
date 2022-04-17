@@ -1,5 +1,5 @@
 export default {
-  languageName: 'English',
+  languageName: 'Arabic',
 
   hero: {
     title: 'What is an Indie Maker?',
